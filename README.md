@@ -50,5 +50,5 @@
 
 ---
 
-[linkedin]: https://linkedin.com/in/
-[instagram]: https://www.instagram.com/myself_loki/
+[linkedin]: https://linkedin.com/in/brantleygusler
+[instagram]: https://www.instagram.com/brantleygusler/
