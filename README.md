@@ -1,18 +1,16 @@
 ### Hi there 👋, I'm Brantley
 
 
-## I'm a Husband, Father, Full-Stack Developer & Learner!!
+## I'm a !!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects and Git-Hub Commits
-- ⚡ Fun fact: I love to Explore, Hike, Run!!
+- 🌱 I’m currently  🤣
+- 🥅 2022 Goals:
+- ⚡ Fun fact: !!
 
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Codepen" width="60px" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />][codepen]
-[<img align="left" alt="StackOverflow" width="90px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackoverflow]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
