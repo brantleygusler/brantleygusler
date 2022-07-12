@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Brantley
 
 
-## I'm a !!
+## I'm a Software Engineer, Tabletop RPG Lover and GIS Nerd.
 
 - 🌱 I’m currently  🤣
 - 🥅 2022 Goals:
