@@ -3,8 +3,8 @@
 
 ## I'm a Software Engineer, Tabletop RPG Lover and GIS Nerd.
 
-- 🌱 I’m currently  🤣
-- 🥅 2022 Goals:
+- 🌱 I’m currently learning Rust and reading the Wheel of Time series.
+- 🥅 2022 Goals: Finish my novel.
 - ⚡ Fun fact: !!
 
 
