@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Brantley
 
 
-## I'm a Software Engineer, Tabletop RPG Lover and GIS fan.
+## I'm a Software Engineer, and Tabletop RPG Lover
 
-- 🌱 Current Goals: I am learning Rust and reading the Wheel of Time series.
-- 🥅 2022 Goals: Finish my fantasy novel.
+- 🌱 Current Goals: Learn Rust. Finish Wheel of Time.
+- 🥅 2022 Goals: Finish writing my novel.
 - ⚡ Fun fact: I've ran multiple marathons and a handful of ultra marathons!
 
 
