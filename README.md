@@ -5,7 +5,7 @@
 
 - 🌱 Current Goals: Learn Rust. Finish Wheel of Time.
 - 🥅 2022 Goals: Finish writing my novel.
-- ⚡ Fun fact: I've ran multiple marathons and a handful of ultra marathons!!
+- ⚡ Fun fact: I've ran multiple marathons and a handful of ultra marathons!
 
 
 ### Connect with me:
