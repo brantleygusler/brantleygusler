@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer, and Tabletop RPG Lover
 
-- 🌱 Current Goals: Learn Rust. Finish Wheel of Time.
+- 🌱 Current Goals: Take 5 strokes off my disc golf handicap 
 - 🥅 2023 Goals: Finish writing my novel.
 - ⚡ Fun fact: I've ran multiple marathons and a handful of ultra marathons!!
 
