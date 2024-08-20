@@ -3,9 +3,9 @@
 
 ## I'm a Software Engineer, Data Scientist, Marketing Expert and Tabletop RPG Lover
 
-- 🌱 Current Goals: Take 5 strokes off my disc golf handicap.
-- 🥅 2024 Goals: Finish writing my novel.
-- ⚡ Fun fact: I've ran multiple marathons and a handful of ultra marathons!!
+- 🌱 Currently working on my first novel
+- 🥅 Avid disc golfer
+- ⚡ Veteran of multiple marathons and ultramarathons 
 
 
 ### Connect with me:
