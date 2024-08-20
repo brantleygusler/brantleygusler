@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Brantley
 
 
-## I'm a Software Engineer, and Tabletop RPG Lover
+## I'm a Software Engineer, Data Scientist, Marketing Expert and Tabletop RPG Lover
 
 - 🌱 Current Goals: Take 5 strokes off my disc golf handicap.
 - 🥅 2024 Goals: Finish writing my novel.
