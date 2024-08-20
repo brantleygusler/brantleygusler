@@ -3,9 +3,9 @@
 
 ## I'm a Software Engineer, Data Scientist, Marketing Expert and Tabletop RPG Lover
 
-- 🌱 Currently working on my first novel
-- 🥅 Avid disc golfer
-- ⚡ Veteran of multiple marathons and ultramarathons 
+- Currently working on my first novel
+- Avid disc golfer
+- Veteran of multiple marathons and ultramarathons 
 
 
 ### Connect with me:
