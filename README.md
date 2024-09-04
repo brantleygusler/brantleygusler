@@ -8,12 +8,6 @@
 - Veteran of multiple marathons and ultramarathons 
 
 
-### Connect with me:
-
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Twitter.svg" />][linkedin]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
