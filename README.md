@@ -7,7 +7,8 @@
 
 - Currently working on my first novel
 - Avid disc golfer
-- Veteran of multiple marathons and ultramarathons 
+- Typewriter enthusiast
+- Tournament chess player
 
 
 ### Languages and Tools:
