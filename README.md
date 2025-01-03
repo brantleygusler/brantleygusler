@@ -5,12 +5,6 @@
 
 <I>A versatile professional at the intersection of technology, creativity, and data, I bring a unique skill set as a creative marketer, communicator, and data scientist. With a strong software development and data analysis foundation, I harness the power of data-driven insights to craft innovative marketing strategies that resonate with target audiences and drive business growth.</i>
 
-- Currently working on my first novel
-- Avid disc golfer
-- Typewriter enthusiast
-- Tournament chess player
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
