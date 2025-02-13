@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Brantley
 
 
-## I'm a Software Engineer, Data Scientist, Marketing Expert and Board Game Lover
+## I'm a Marketing Expert, Data Scientist, Software Engineer and Board Game Lover
 
 <I>A versatile professional at the intersection of technology, creativity, and data, I bring a unique skill set as a creative marketer, communicator, and data scientist. With a strong software development and data analysis foundation, I harness the power of data-driven insights to craft innovative marketing strategies that resonate with target audiences and drive business growth</i>
 
