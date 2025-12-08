@@ -25,19 +25,4 @@
 
 <br />
 
----
-
-### :zap: GitHub Stats
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brantleygusler&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brantleygusler&hide=html&layout=compact&theme=buefy"/></td>
-    </tr>   
-  </table>
-</center>
-
----
-
 [Twitter]: [https://linkedin.com/in/brantleygusler](https://x.com/BrantleyGusler)
